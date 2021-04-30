@@ -1,4 +1,4 @@
-### Hi there, I'm Mateo - aka [mgonnav][website] 👋
+# Hi there, I'm Mateo - aka <a href="https://www.mgonnav.com">mgonnav</a> 👋
 
 ## I'm a Student, Developer, and a UCSP ACM Officer!
 
@@ -6,14 +6,20 @@
 
 ### Connect with me:
 
-<a href="https://mgonnav.com">
-  <img align="left" alt="Mateo Gonzales Navarrete | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+<a href="https://www.mgonnav.com">
+  <code>
+    <img alt="Mateo Gonzales Navarrete | Website" height="20px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+  </code>
 </a>
-<a href="https://linkedin.com/in/mgonnav">
-  <img align="left" alt="Mateo Gonzales Navarrete | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/mgonnav">
+  <code>
+    <img alt="Mateo Gonzales Navarrete | LinkedIn" height="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </code>
 </a>
-<a href="https://instagram.com/mgonnav">
-  <img align="left" alt="Mateo Gonzales Navarrete | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/mgonnav">
+  <code>
+    <img alt="Mateo Gonzales Navarrete | Instagram" height="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </code>
 </a>
 
 <br />
