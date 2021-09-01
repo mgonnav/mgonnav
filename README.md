@@ -2,7 +2,9 @@
 
 ## I'm a Student, Developer, and a UCSP ACM Officer!
 
-- 🌱 I’m currently learning everything
+- 🌱 I’m learning more about backend development with Django!
+- 🐧 Linux is my daily driver.
+- ⌨️ Vim is my preferred text editor. I use [SpaceVim](https://github.com/SpaceVim/SpaceVim)!
 
 ### Connect with me:
 
